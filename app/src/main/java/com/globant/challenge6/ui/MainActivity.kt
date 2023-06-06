@@ -1,4 +1,4 @@
-package com.globant.challenge6
+package com.globant.challenge6.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
