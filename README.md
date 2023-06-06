@@ -1,9 +1,9 @@
-# challenge6
+# Challenge6
 
-### Documentation:
+## Documentation:
 
-# To use modularization
+### To use modularization
 https://developer.android.com/topic/modularization/patterns
 
-# To use gradle catalogs
+### To use gradle catalogs
 https://developer.android.com/build/migrate-to-catalogs#groovy
