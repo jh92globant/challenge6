@@ -1,8 +1,13 @@
 # Challenge6
+(README under construction)
 
-This will be the initial documentation to keep in mind before check the project:
+## Structure of the App
+
+https://app.diagrams.net/#G1lha3Fu6lz4BUxbt-Pk-CsuW0mPraJsNZ
 
 ## Documentation:
+
+This will be the initial documentation to keep in mind before check the project:
 
 ### Modularization
 https://developer.android.com/topic/modularization/patterns
