@@ -4,6 +4,7 @@
 
 ### Modularization
 https://developer.android.com/topic/modularization/patterns
+
 https://developer.android.com/training/dependency-injection/hilt-multi-module
 
 ### Gradle catalogs
