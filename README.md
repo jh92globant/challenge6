@@ -1,5 +1,7 @@
 # Challenge6
 
+This will be the initial documentation to keep in mind before check the project:
+
 ## Documentation:
 
 ### Modularization
