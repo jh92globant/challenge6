@@ -1,6 +1,7 @@
 plugins {
     alias libs.plugins.android.application
     alias libs.plugins.kotlin.android
+    alias libs.plugins.dagger.hilt.android
 }
 apply plugin: 'kotlin-kapt'
 
@@ -38,7 +39,7 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion '1.2.0'
+        kotlinCompilerExtensionVersion = "1.4.7"
     }
     packagingOptions {
         resources {
