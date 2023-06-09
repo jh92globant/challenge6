@@ -16,6 +16,8 @@ https://developer.android.com/training/dependency-injection/hilt-multi-module
 
 https://medium.com/mobile-app-development-publication/dagger-hilt-on-multi-module-android-app-26815c427fb
 
+https://developer.android.com/topic/modularization/patterns#app-modules
+
 
 ### Gradle catalogs
 https://developer.android.com/build/migrate-to-catalogs#groovy
